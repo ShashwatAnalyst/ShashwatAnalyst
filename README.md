@@ -117,7 +117,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 </table>
 
 </details>
-<details><summary><strong> Coding Progress Stats<picture>
+<details><summary><strong> Coding Platforms Stats<picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="20" height="20">
 </picture></strong></summary><br><br>
