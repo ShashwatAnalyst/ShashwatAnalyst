@@ -40,8 +40,41 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
 </picture> My work & progress</h2>
-  
 
+<details><summary><strong>Projects <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="20" height="20">
+</picture></strong></summary><br><br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shashwatanalyst/SQL-Data-Warehouse-Project" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=SQL-Data-Warehouse-Project&theme=dark&hide_border=true&bg_color=000000" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark&hide_border=true&bg_color=000000" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark&hide_border=true&bg_color=000000" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark&hide_border=true&bg_color=000000" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</details>
+  
 <details><summary><strong>Tech Stack <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="20"/></strong></summary>
 <br><br>
 
@@ -53,6 +86,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white)|
 
 </details>
+
 <details><summary><strong> GitHub Stats <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="20" height="20">
@@ -60,16 +94,14 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://streak-stats.vercel.app/api?user=shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%" alt="GitHub Streak Stats for Shashwat"/></td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatanalyst&layout=donut-vertical&theme=dark&bg_color=00000000&title_color=00e7ff&text_color=ffffff&icon_color=ffb86c&hide_border=true" alt="Top Languages Donut Chart for Shashwat"/>
-    </td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shashwatanalyst&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%" alt="GitHub Stats for Shashwat"/></td>
+    <td align="center"><img src="https://streak-stats.vercel.app/api?user=shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatanalyst&hide_progress=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shashwatanalyst&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
   </tr>
   <tr>
     <td colspan="3" align="center" width="100%">
       <div><strong>Contribution Graph</strong></div>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatanalyst&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%" alt="GitHub Contribution Activity Graph for Shashwat"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashwatanalyst&theme=react&hide_border=true&area=true&hide_title=true&bg_color=00000000" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -78,7 +110,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
-        <img alt="snake animation showing GitHub contribution heatmap for Shashwat" src="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
+        <img alt="snake" src="https://raw.githubusercontent.com/shashwatanalyst/shashwatanalyst/output/github-contribution-grid-snake.svg" />
       </picture>
     </td>
   </tr>
