@@ -58,12 +58,12 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <tr>
     <td align="center">
       <a href="https://github.com/shashwatanalyst/SQL-Data-Warehouse-Project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=SQL-Data-Warehouse-Project&theme=dark&hide_border=true&bg_color=000000" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=SQL-Data-Warehouse-Project&theme=dark&bg_color=000000" width="100%"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/your-other-project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-project&theme=dark&hide_border=true&bg_color=000000" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-project&theme=dark&bg_color=000000" width="100%"/>
       </a>
     </td>
   </tr>
