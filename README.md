@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/67e240b7ec5f08f25ddd9f1b08c6177edecb31e3/Untitled%20(6).svg" alt="Data Analyst Dev"/> 
+  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/651d0c818c89527a4a9e890300611b209763a0f2/shashwatanalyst.svg" alt="Data Analyst Dev"/> 
 </div>
 
 
@@ -11,8 +11,9 @@
   Hi there, I'm Shashwat Singh
 </h2>
 
-[![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-2EC866?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
-[![Download Resume](https://img.shields.io/badge/Resume-Shashwat_(Data_Analyst)-2EC866?style=for-the-badge&logo=file&logoColor=white)](https://docs.google.com/document/d/1PJORdUmc9hXCbS8SSw8SFKRTBqgeVsK6_w9k9v-7WF4/edit?usp=sharing)
+[![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
+[![Download Resume](https://img.shields.io/badge/Resume-Shashwat_(Data_Analyst)-000000?style=for-the-badge&logo=file&logoColor=white)](https://docs.google.com/document/d/1PJORdUmc9hXCbS8SSw8SFKRTBqgeVsK6_w9k9v-7WF4/edit?usp=sharing)
+
 
 
 
