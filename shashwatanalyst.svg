@@ -1,4 +1,4 @@
-<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="370" xmlns="http://www.w3.org/2000/svg">
   <!-- Black background -->
   <rect width="800" height="400" fill="#000000"/>
   
@@ -132,19 +132,19 @@
   <!-- Text content -->
   <g id="text-content">
     <!-- Hello text -->
-    <text x="400" y="180" text-anchor="middle" fill="white" font-family=" 'Satisfy', cursive" font-size="32" font-weight="100" letter-spacing="8px" opacity="0">
+    <text x="400" y="140" text-anchor="middle" fill="white" font-family=" 'Satisfy', cursive" font-size="32" font-weight="100" letter-spacing="8px" opacity="0">
       Hello
       <animate attributeName="opacity" values="0;1" dur="1s" begin="0.5s" fill="freeze"/>
     </text>
 
     <!-- I'm Shashwat text -->
-    <text x="400" y="240" text-anchor="middle" fill="white" font-family="'Satisfy', cursive" font-size="32" font-weight="100"  letter-spacing="12px" opacity="0"  >
+    <text x="400" y="200" text-anchor="middle" fill="white" font-family="'Satisfy', cursive" font-size="32" font-weight="100"  letter-spacing="12px" opacity="0"  >
       I'm Shashwat
       <animate attributeName="opacity" values="0;1" dur="1s" begin="1.5s" fill="freeze"/>
     </text>
 
     <!-- Data Analyst text -->
-    <text x="400" y="300" text-anchor="middle" fill="white" font-family="'Satisfy', cursive" font-size="32" font-weight="100" letter-spacing="12px" opacity="0">
+    <text x="400" y="260" text-anchor="middle" fill="white" font-family="'Satisfy', cursive" font-size="32" font-weight="100" letter-spacing="12px" opacity="0">
       Data Analyst
       <animate attributeName="opacity" values="0;1" dur="1s" begin="2.5s" fill="freeze"/>
     </text>
