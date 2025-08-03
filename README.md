@@ -2,11 +2,16 @@
 
 
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/01ed714859df137283215f34ffd307fd34f4b38a/Untitled%20(20).svg" alt="Data Analyst Dev"/> 
+</div>
+
+
 <div>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/49fa6531fd0167bc300ce5fee993a43c81f353b2/Untitled%20(20).svg">  
-  Hi there, I'm Shashwat Singh
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
+  Hi there, I'm Shashwat
 </h2>
 
 [![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
