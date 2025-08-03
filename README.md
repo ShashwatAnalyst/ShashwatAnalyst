@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/e8dcd62f4cd526eaf25779ffe467b1c65a6aed27/Untitled%20(24).svg" alt="Data Analyst Dev"/> 
+  <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Untitled%20(15).png?raw=true" alt="Data Analyst"/> 
 </div>
 
 
