@@ -7,7 +7,7 @@
 <div>
 
 <h2>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
+  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/49fa6531fd0167bc300ce5fee993a43c81f353b2/Untitled%20(20).svg">  
   Hi there, I'm Shashwat Singh
 </h2>
 
