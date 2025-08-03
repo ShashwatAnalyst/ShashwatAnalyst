@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/d8856feace0216663e2414c2e8b80ae5b789d4ce/Untitled%20(10).svg" alt="Data Analyst Dev"/> 
+  <img src="https://raw.githubusercontent.com/ShashwatAnalyst/ShashwatAnalyst/af607188a3937c295ea91d427370b53990e39abc/Untitled%20(12).svg" alt="Data Analyst Dev"/> 
 </div>
 
 
