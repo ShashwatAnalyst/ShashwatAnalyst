@@ -114,7 +114,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
     <td align="center">
       <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
         <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" alt="HackerRank Python Badge"/><br/>
-        <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="135px" alt="HackerRank SQL Badge"/>
+        <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="140px" alt="HackerRank SQL Badge"/>
       </a>
     </td>
     <td align="center">
