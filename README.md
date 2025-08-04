@@ -105,7 +105,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🏆 Coding Platform Stats</strong></summary><br>
 
-<table align="center">
+<<table align="center">
   <tr>
     <th align="center">HackerRank</th>
     <th align="center">LeetCode</th>
@@ -113,10 +113,10 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
-        <p align="center">
-          <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="130px" alt="HackerRank Python Badge"/><br/>
-          <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="130px" alt="HackerRank SQL Badge"/>
-        </p>
+        <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
+          <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" alt="HackerRank Python Badge"/>
+          <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="120px" alt="HackerRank SQL Badge"/>
+        </div>
       </a>
     </td>
     <td align="center">
