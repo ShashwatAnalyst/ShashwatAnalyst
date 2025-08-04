@@ -113,10 +113,10 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <tr>
     <td align="center">
       <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
-        <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-          <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="130px" style="max-width: 100%;" alt="HackerRank Python Badge"/>
-          <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="130px" style="max-width: 100%;" alt="HackerRank SQL Badge"/>
-        </div>
+        <p align="center">
+          <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="130px" alt="HackerRank Python Badge"/><br/>
+          <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="130px" alt="HackerRank SQL Badge"/>
+        </p>
       </a>
     </td>
     <td align="center">
@@ -124,7 +124,6 @@ I'm also working on projects that blend `frontend development` and `data analyti
     </td>
   </tr>
 </table>
-
 </details>
 
 
