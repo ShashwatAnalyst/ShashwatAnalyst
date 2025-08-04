@@ -105,24 +105,22 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🏆 Coding Platform Stats</strong></summary><br>
 
-<<table align="center">
-  <tr>
-    <th align="center">HackerRank</th>
-    <th align="center">LeetCode</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
-        <div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-          <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" alt="HackerRank Python Badge"/>
-          <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="120px" alt="HackerRank SQL Badge"/>
-        </div>
-      </a>
-    </td>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>
-    </td>
-  </tr>
+<table align="center">    
+  <tr>    
+    <th align="center">HackerRank</th>    
+    <th align="center">LeetCode</th>    
+  </tr>    
+  <tr>    
+    <td align="center">    
+      <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
+        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="120px" alt="HackerRank Python Badge"/><br/>    
+        <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="140px" alt="HackerRank SQL Badge"/>    
+      </a>    
+    </td>    
+    <td align="center">    
+      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
+    </td>    
+  </tr>    
 </table>
 </details>
 
