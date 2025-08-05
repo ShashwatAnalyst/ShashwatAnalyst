@@ -105,43 +105,44 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🏆 Coding Platform Stats</strong></summary><br>
 
-<table align="center">
+<table align="center" style="width: 100%; margin: auto;">
   <tr>
-    <td style="vertical-align: top; padding-right: 30px;">
-      <table width="250px">
-        <tr>    
-          <th align="center" width="250px">HackerRank</th>    
-        </tr>    
-        <tr>    
-          <td align="center" width="250px">    
-            <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
-              <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="90px" alt="HackerRank Python Badge"/>    
-            </a>    
-          </td>    
+    <td style="width: 100%; vertical-align: top; padding: 10px;">
+      <table style="width: 100%;">
+        <tr>
+          <th align="center">HackerRank</th>
         </tr>
-        <tr>    
-          <td align="center" width="250px">    
-            <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
-              <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="100px" alt="HackerRank SQL Badge"/>    
-            </a>    
-          </td>    
-        </tr>    
+        <tr>
+          <td align="center">
+            <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
+              <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" style="width: 80px; max-width: 100%;" alt="HackerRank Python Badge"/>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
+              <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" style="width: 90px; max-width: 100%;" alt="HackerRank SQL Badge"/>
+            </a>
+          </td>
+        </tr>
       </table>
     </td>
-    <td style="vertical-align: top;">
-      <table width="450px">
-        <tr>    
-          <th align="center" width="450px">LeetCode</th>    
-        </tr>    
-        <tr>    
-          <td align="center" width="450px">    
-            <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
-          </td>    
-        </tr>    
+    <td style="width: 100%; vertical-align: top; padding: 10px;">
+      <table style="width: 100%;">
+        <tr>
+          <th align="center">LeetCode</th>
+        </tr>
+        <tr>
+          <td align="center">
+            <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" style="width: 100%; max-width: 100%;" alt="LeetCode Profile Card for Shashwat"/>
+          </td>
+        </tr>
       </table>
     </td>
   </tr>
 </table>
+
 </details>
 
 
