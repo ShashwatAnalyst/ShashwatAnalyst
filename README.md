@@ -107,11 +107,13 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <table align="center" style="width: 100%; margin: auto;">
   <tr>
-    <td style="width: 100%; vertical-align: top; padding: 10px;">
+    <th align="center" style="width: 50%;">HackerRank</th>
+    <th align="center" style="width: 50%;">LeetCode</th>
+  </tr>
+  <tr>
+    <!-- HackerRank Column -->
+    <td style="vertical-align: top; padding: 10px;">
       <table style="width: 100%;">
-        <tr>
-          <th align="center">HackerRank</th>
-        </tr>
         <tr>
           <td align="center">
             <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">
@@ -128,11 +130,9 @@ I'm also working on projects that blend `frontend development` and `data analyti
         </tr>
       </table>
     </td>
-    <td style="width: 100%; vertical-align: top; padding: 10px;">
+    <!-- LeetCode Column -->
+    <td style="vertical-align: top; padding: 10px;">
       <table style="width: 100%;">
-        <tr>
-          <th align="center">LeetCode</th>
-        </tr>
         <tr>
           <td align="center">
             <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" style="width: 100%; max-width: 100%;" alt="LeetCode Profile Card for Shashwat"/>
@@ -142,6 +142,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
     </td>
   </tr>
 </table>
+
 
 </details>
 
