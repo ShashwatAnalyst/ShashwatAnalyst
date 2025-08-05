@@ -105,33 +105,38 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🏆 Coding Platform Stats</strong></summary><br>
 
-<table align="center" width="500px">    
-  <tr>    
-    <th align="center" width="500px" colspan="2">LeetCode</th>    
-  </tr>    
-  <tr>    
-    <td align="center" width="500px" colspan="2">    
-      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
-    </td>    
-  </tr> 
+<div align="center">
+  <table style="display: inline-block; vertical-align: top; margin-right: 20px;" width="240px">
+    <tr>    
+      <th align="center" width="240px">HackerRank</th>    
+    </tr>    
+    <tr>    
+      <td align="center" width="240px">    
+        <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
+          <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="80px" alt="HackerRank Python Badge"/>    
+        </a>    
+      </td>    
+    </tr>
+    <tr>    
+      <td align="center" width="240px">    
+        <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
+          <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="90px" alt="HackerRank SQL Badge"/>    
+        </a>    
+      </td>    
+    </tr>    
   </table>
-  <table align="center" width="500px">
-  <tr>    
-    <th align="center" colspan="2" width="500px">HackerRank</th>    
-  </tr>    
-  <tr>    
-    <td align="center" width="250px">    
-      <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
-        <img src="https://github.com/itsshashwatsingh/itsshashwatsingh/blob/main/Screenshot_2025-07-19_162031-removebg-preview.png?raw=true" width="80px" alt="HackerRank Python Badge"/>    
-      </a>    
-    </td>    
-    <td align="center" width="250px">    
-      <a href="https://www.hackerrank.com/profile/shashwat98k" target="_blank">    
-        <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="90px" alt="HackerRank SQL Badge"/>    
-      </a>    
-    </td>    
-  </tr>    
-</table>
+  
+  <table style="display: inline-block; vertical-align: top;" width="500px">
+    <tr>    
+      <th align="center" width="500px">LeetCode</th>    
+    </tr>    
+    <tr>    
+      <td align="center" width="500px">    
+        <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
+      </td>    
+    </tr>    
+  </table>
+</div>
 </details>
 
 
