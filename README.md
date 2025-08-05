@@ -132,13 +132,8 @@ I'm also working on projects that blend `frontend development` and `data analyti
     </td>
     <!-- LeetCode Column -->
     <td style="vertical-align: top; padding: 10px;">
-      <table style="width: 100%;">
-        <tr>
-          <td align="center">
             <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" style="width: 100%; max-width: 100%;" alt="LeetCode Profile Card for Shashwat"/>
           </td>
-        </tr>
-      </table>
     </td>
   </tr>
 </table>
