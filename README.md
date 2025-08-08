@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< HEAD
 <div align="center">
   <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Untitled%20(15).png?raw=true" alt="Data Analyst"/> 
 </div>
@@ -149,6 +150,8 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 
 
+=======
+>>>>>>> 7af6122f05b424084897878c5c0f8118a02929f8
 
 
 
