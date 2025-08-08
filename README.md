@@ -105,9 +105,18 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🏆 Coding Platform Stats</strong></summary><br>
 
-<!-- HackerRank Table -->
-<table align="center" width="250px">
+
+<!-- LeetCode Table -->
+<table align="center" width="450px" >
+  <tr colspan="2">    
+    <th align="center" colspan="2">LeetCode</th>    
+  </tr>    
   <tr>    
+    <td align="center" colspan="2">    
+      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
+    </td>    
+  </tr> 
+    <tr>    
     <th align="center" colspan="2">HackerRank</th>    
   </tr>    
   <tr>    
@@ -121,25 +130,8 @@ I'm also working on projects that blend `frontend development` and `data analyti
         <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Screenshot_2025-08-05_004002-removebg-preview.png?raw=true" width="100px" alt="HackerRank SQL Badge"/>    
       </a>    
     </td>    
-  </tr>    
+  </tr>  
 </table>
-<!-- LeetCode Table -->
-<table align="center" width="450px">
-  <tr>    
-    <th align="center">LeetCode</th>    
-  </tr>    
-  <tr>    
-    <td align="center">    
-      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
-    </td>    
-  </tr>    
-</table>
-
-
-
-
-
-
 </details>
 
 
@@ -151,16 +143,6 @@ I'm also working on projects that blend `frontend development` and `data analyti
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShashwatSi48402)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fclDlbfku9/)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-217346?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shashwat98k)
-
-
-
-
-
-
-
-
-
-
 
 
 
