@@ -8,7 +8,7 @@
 
 <h2>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  
-  Hi there, I'm Shashwat
+  Hi there, I'm Shashwat Singh
 </h2>
 
 [![Visit My Portfolio](https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://www.shashwatanalyst.online/)
