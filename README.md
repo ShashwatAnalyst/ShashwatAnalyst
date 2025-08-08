@@ -105,6 +105,18 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🏆 Coding Platform Stats</strong></summary><br>
 
+
+<!-- LeetCode Table -->
+<table align="center" width="450px">
+  <tr>    
+    <th align="center">LeetCode</th>    
+  </tr>    
+  <tr>    
+    <td align="center">    
+      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
+    </td>    
+  </tr>    
+</table>
 <!-- HackerRank Table -->
 <table align="center" width="250px">
   <tr>    
@@ -123,18 +135,6 @@ I'm also working on projects that blend `frontend development` and `data analyti
     </td>    
   </tr>    
 </table>
-<!-- LeetCode Table -->
-<table align="center" width="450px">
-  <tr>    
-    <th align="center">LeetCode</th>    
-  </tr>    
-  <tr>    
-    <td align="center">    
-      <img src="https://leetcard.jacoblin.cool/fclDlbfku9?theme=radical&ext=contest&animation=true&font=monospace&ext=heatmap" width="100%" alt="LeetCode Profile Card for Shashwat"/>    
-    </td>    
-  </tr>    
-</table>
-
 
 
 
