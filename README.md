@@ -59,7 +59,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <tr>
     <td align="center">
       <a href="https://github.com/shashwatanalyst/Data-Warehouse-Automation-Reporting-System" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=SQL-Data-Warehouse-Project&theme=dark&bg_color=000000" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Data-Warehouse-Automation-Reporting-System&theme=dark&bg_color=000000" width="100%"/>
       </a>
     </td>
     <td align="center">
