@@ -55,20 +55,6 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <details><summary><strong>🎯 Featured Projects</strong></summary><br>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shashwatanalyst/Automated-Reporting-System" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Automated-Reporting-System&theme=dark&bg_color=000000" width="100%"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/your-other-project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-other-project&theme=dark&bg_color=000000" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 </details>
 
