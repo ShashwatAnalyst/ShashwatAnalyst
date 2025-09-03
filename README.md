@@ -16,7 +16,6 @@
 
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🎯 **Aspiring Data Analyst & Full-Stack Developer**, passionate about combining analytics and development to create impactful, data-driven solutions.  
 - ❤️ Passionate **Data Analyst** exploring modern tools and technologies  
 - 🎓 Graduate with hands-on experience in real-world projects  
 - ⚒️ Skilled in **Excel**, **Python**, **SQL**, and **data visualization methods**  
@@ -67,7 +66,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 
 <details>
-  <summary><h2>🔥 GitHub Stats</h2></summary>
+  <summary><h2><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="25" height="25"> </picture> GitHub Stats</h2></summary>
 
 <table>
   <tr>
@@ -96,7 +95,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 </details>
 
 <details>
-  <summary><h2>🏆 Coding Platform Stats</h2></summary>
+  <summary><h2><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="25" height="25"> </picture> Coding Platform Stats</h2></summary>
 
 <!-- LeetCode Table -->
 <table align="center" width="450px" >
