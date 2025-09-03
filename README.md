@@ -30,14 +30,17 @@
 
 
 <h2> <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
 </picture> What I've been doing lately </h2>
 
 I've been actively working with datasets using tools like `Pandas`, `Matplotlib`, and `Seaborn` for analysis and visualization. On the development side, I'm building responsive UI components with `React` and `Tailwind CSS` to enhance my frontend skills.
 I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs. Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
 
-<h2><strong>🎯 Featured Projects</strong><br></h2>
+<h2><strong><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="32" height="32">
+</picture> Featured Projects</strong><br></h2>
 
 <table>
   <tr>
@@ -54,7 +57,10 @@ I'm also working on projects that blend `frontend development` and `data analyti
   </tr>
 </table>
 
-<h2><strong>⚒️ Tech Stack</strong><br></h2>
+<h2><strong><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
+</picture> Tech Stack</strong><br></h2>
 
 | Category              | Tools / Technologies |
 |-----------------------|----------------------|
@@ -64,7 +70,10 @@ I'm also working on projects that blend `frontend development` and `data analyti
 | **Tools & Platforms**| ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 
-<h2><strong>🔥 GitHub Stats</strong></h2>
+<h2><strong><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="32" height="32">
+</picture> GitHub Stats</strong></h2>
 
 <table>
   <tr>
@@ -92,7 +101,10 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 </details>
 
-<h2><strong>🏆 Coding Platform Stats</strong><br></h2>
+<h2><strong><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="32" height="32">
+</picture> Coding Platform Stats</strong><br></h2>
 
 
 <!-- LeetCode Table -->
