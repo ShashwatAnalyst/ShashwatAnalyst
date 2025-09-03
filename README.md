@@ -1,8 +1,6 @@
-
 <div align="center">
   <img src="https://github.com/ShashwatAnalyst/ShashwatAnalyst/blob/main/Untitled%20(15).png?raw=true" alt="Data Analyst"/> 
 </div>
-
 
 <div>
 
@@ -16,18 +14,15 @@
 
 
 
-
-
-
 ## About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
+- 🎯 **Aspiring Data Analyst & Full-Stack Developer**, passionate about combining analytics and development to create impactful, data-driven solutions.  
 - ❤️ Passionate **Data Analyst** exploring modern tools and technologies  
 - 🎓 Graduate with hands-on experience in real-world projects  
 - ⚒️ Skilled in **Excel**, **Python**, **SQL**, and **data visualization methods**  
 - 🔰 Learning frontend development with **React**, **Tailwind** and UI animations  
 - 🧩 Strong foundation in logic, design thinking and problem-solving  
 - 🔮 Lifelong learner driven by curiosity and creativity  
-
 
 <h2> <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
@@ -70,10 +65,9 @@ I'm also working on projects that blend `frontend development` and `data analyti
 | **Tools & Platforms**| ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-%23F24E1E.svg?style=for-the-badge&logo=jupyter&logoColor=white) |
 
 
-<h2><strong><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="25" height="25">
-</picture> GitHub Stats</strong></h2>
+
+<details>
+  <summary><h2>🔥 GitHub Stats</h2></summary>
 
 <table>
   <tr>
@@ -101,11 +95,8 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 </details>
 
-<h2><strong><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="25" height="25">
-</picture> Coding Platform Stats</strong><br></h2>
-
+<details>
+  <summary><h2>🏆 Coding Platform Stats</h2></summary>
 
 <!-- LeetCode Table -->
 <table align="center" width="450px" >
@@ -133,8 +124,8 @@ I'm also working on projects that blend `frontend development` and `data analyti
     </td>    
   </tr>  
 </table>
-</details>
 
+</details>
 
 
 
@@ -144,10 +135,6 @@ I'm also working on projects that blend `frontend development` and `data analyti
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ShashwatSi48402)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/fclDlbfku9/)
 [![HackerRank](https://img.shields.io/badge/Hackerrank-217346?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/shashwat98k)
-
-
-
-
 
 
 
