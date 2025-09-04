@@ -70,8 +70,10 @@ I'm also working on projects that blend `frontend development` and `data analyti
   </tr>
 </table>
 
+<h2><picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtNG11aG05czVmaDJ5dmYwMWlpaHc4cTNqbjUwbWh6ZnN2MzZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IzLejEn5juzsLN4AqX/giphy.gif" alt="🏆" width="25" height="25"> </picture>Stats</h2>
+
 <details>
-  <summary><h3><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="25" height="25"> </picture> GitHub Stats</h3></summary>
+  <summary><strong>GitHub Stats</strong><br><br></summary>
 
 <table>
   <tr>
@@ -100,7 +102,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 </details>
 
 <details>
-  <summary><h3><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="25" height="25"> </picture> Coding Platform Stats</h3></summary>
+  <summary><strong> Coding Platform Stats</strong><br><br></summary>
 
 <!-- LeetCode Table -->
 <table align="center" width="450px" >
