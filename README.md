@@ -55,20 +55,13 @@ I'm also working on projects that blend `frontend development` and `data analyti
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="25" height="25">
 </picture> Featured Projects</strong><br></h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shashwatanalyst/Automated-Reporting-System" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Automated-Reporting-System&theme=dark&bg_color=000000&cache_seconds=1" width="100%"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shashwatanalyst/Sales-Analysis-Project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Sales-Analysis-Project&theme=dark&bg_color=000000&cache_seconds=1" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+| Image | Project                     | Description                                                                                                                                                                                                 | Repository |
+|-------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+|<img width="50" alt="image" src="https://github.com/user-attachments/assets/df7e2ddc-3983-429d-a15e-323ec5f881e3" />| **Sales Performance Analysis** | Sales Performance Analysis using **Python (Pandas, NumPy, Matplotlib, Seaborn)** for data preparation, EDA, and visualization, with **Tableau dashboards** for actionable insights.                        | [![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatanalyst/Sales-Analysis-Project) |
+|<img width="50" alt="image" src="https://github.com/user-attachments/assets/f70bda06-57dc-46cd-9c69-6791e7c2adca" />| **Automated Reporting System** | An **automated reporting system** using **SQL and Python (Pandas, Matplotlib, Seaborn)** that runs **ETL in one click**, generating updated Jupyter notebooks and CSV reports automatically.               | [![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatanalyst/Automated-Reporting-System) |
+
+
+
 
 <h2><picture><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNtNG11aG05czVmaDJ5dmYwMWlpaHc4cTNqbjUwbWh6ZnN2MzZsNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IzLejEn5juzsLN4AqX/giphy.gif" alt="🏆" width="25" height="25"> </picture>Stats</h2>
 
