@@ -32,26 +32,6 @@ I've been actively working with datasets using tools like `Pandas`, `Matplotlib`
 I'm also working on projects that blend `frontend development` and `data analytics` to create clean, user-friendly designs. Recently, I've been diving deeper into `SQL`, practicing complex queries and exploring `report automation` techniques.
 
 <h2><strong><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="25" height="25">
-</picture> Featured Projects</strong><br></h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/shashwatanalyst/Automated-Reporting-System" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Automated-Reporting-System&theme=dark&bg_color=000000&cache_seconds=1" width="100%"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/shashwatanalyst/Sales-Analysis-Project" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Sales-Analysis-Project&theme=dark&bg_color=000000&cache_seconds=1" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h2><strong><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="25" height="25">
 </picture> Tech Stack</strong><br></h2>
@@ -70,7 +50,25 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 
 
+<h2><strong><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="25" height="25">
+</picture> Featured Projects</strong><br></h2>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/shashwatanalyst/Automated-Reporting-System" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Automated-Reporting-System&theme=dark&bg_color=000000&cache_seconds=1" width="100%"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/shashwatanalyst/Sales-Analysis-Project" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Sales-Analysis-Project&theme=dark&bg_color=000000&cache_seconds=1" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><h3><picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" alt="🔥" width="25" height="25"> </picture> GitHub Stats</h3></summary>
