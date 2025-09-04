@@ -59,8 +59,8 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 | Image | Project & Description | Repository |
 |-------|------------------------|------------|
-| <img width="150" alt="image" src="https://github.com/user-attachments/assets/f70bda06-57dc-46cd-9c69-6791e7c2adca" /> |<img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Sales-Performance-Analysis&theme=dark&bg_color=000000&cache_seconds=1" width="300"/>| [![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatanalyst/Sales-Performance-Analysis) |
-| <img width="150" alt="image" src="https://github.com/user-attachments/assets/df7e2ddc-3983-429d-a15e-323ec5f881e3" /> |<img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Automated-Reporting-System&theme=dark&bg_color=000000&cache_seconds=1" width="300"/>| [![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatanalyst/Automated-Reporting-System) |
+| <img width="100" alt="image" src="https://github.com/user-attachments/assets/f70bda06-57dc-46cd-9c69-6791e7c2adca" /> |<img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Sales-Performance-Analysis&theme=dark&bg_color=000000&cache_seconds=1" width="400"/>| [![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatanalyst/Sales-Performance-Analysis) |
+| <img width="100" alt="image" src="https://github.com/user-attachments/assets/df7e2ddc-3983-429d-a15e-323ec5f881e3" /> |<img src="https://github-readme-stats.vercel.app/api/pin/?username=shashwatanalyst&repo=Automated-Reporting-System&theme=dark&bg_color=000000&cache_seconds=1" width="400"/>| [![Repo](https://img.shields.io/badge/View%20Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shashwatanalyst/Automated-Reporting-System) |
 
 </div>
 
