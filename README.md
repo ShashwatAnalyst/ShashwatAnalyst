@@ -77,7 +77,7 @@ I'm also working on projects that blend `frontend development` and `data analyti
 
 <table>
   <tr>
-    <td align="center"><img src="https://streak-stats.vercel.app/api?user=shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%"/></td>
+    <td align="center"><img src="https://streak-stats.demolab.com/?user==shashwatanalyst&theme=react&hide_border=true&background=00000000" width="100%"/></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatanalyst&hide_progress=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=shashwatanalyst&show_icons=true&theme=react&hide_border=true&bg_color=00000000" width="100%"/></td>
   </tr>
